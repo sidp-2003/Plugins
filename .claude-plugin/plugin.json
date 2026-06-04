@@ -1,12 +1,5 @@
 {
   "name": "daily-planner",
   "version": "1.0.0",
-  "description": "Converts raw tasks into a structured daily schedule",
-  "commands": [
-    {
-      "name": "daily-planner",
-      "description": "Generate a structured daily plan",
-      "prompt": "Convert user input into a structured daily schedule"
-    }
-  ]
+  "description": "Converts raw tasks into a structured daily schedule"
 }
